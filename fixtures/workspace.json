@@ -1,0 +1,1 @@
+{"packages":[{"name":"web","dependencies":["ui","api","react"]},{"name":"ui","dependencies":["shared"]},{"name":"api","dependencies":["shared"]},{"name":"shared","dependencies":[]},{"name":"legacy-api","dependencies":["legacy-storage"]},{"name":"legacy-storage","dependencies":["legacy-api"]}]}
